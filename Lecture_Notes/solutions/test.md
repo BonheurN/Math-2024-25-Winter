@@ -21,7 +21,7 @@ $$
 This is a $3 \times 3$ matrix.
 
 ### Types of Matrices:
-1. **Row Matrix**: A matrix with only one row (e.g., $ 1 \times n $).
+1. **Row Matrix**: A matrix with only one row (e.g., $1 \times n$).
 2. **Column Matrix**: A matrix with only one column (e.g., $ m \times 1 $).
 3. **Square Matrix**: A matrix with the same number of rows and columns ($ m = n $).
 4. **Diagonal Matrix**: A square matrix with non-zero elements only on the main diagonal.
