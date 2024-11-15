@@ -18,7 +18,7 @@ A = \begin{bmatrix}
 \end{bmatrix}
 $$
 
-This is a $ 3 \times 3 $ matrix.
+This is a $3 \times 3$ matrix.
 
 ### Types of Matrices:
 1. **Row Matrix**: A matrix with only one row (e.g., $ 1 \times n $).
