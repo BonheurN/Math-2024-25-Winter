@@ -9,6 +9,7 @@ A **matrix** is a rectangular array of numbers, symbols, or expressions arranged
 A matrix with $ m $ rows and $ n $ columns is called an $ m \times n $ (read as "m by n") matrix. 
 
 For example:
+
 $$
 A = \begin{bmatrix}
 1 & 2 & 3 \\
@@ -16,6 +17,7 @@ A = \begin{bmatrix}
 7 & 8 & 9
 \end{bmatrix}
 $$
+
 This is a $ 3 \times 3 $ matrix.
 
 ### Types of Matrices:
