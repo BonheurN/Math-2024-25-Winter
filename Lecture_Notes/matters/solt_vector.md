@@ -23,8 +23,12 @@ $$
 Perform row operations:
 
 
-1. ( R_2 \to R_2 - 2R_1 \)
-2. ( R_3 \to R_3 - 3R_1 \)
+$$
+\begin{align*}
+1. & \, ( R_2 \to R_2 - 2R_1 ) \\
+2. & \, ( R_3 \to R_3 - 3R_1 )
+\end{align*}
+$$
 
 
 
@@ -38,7 +42,7 @@ $$
 $$
 
 Next, perform the second row operation:
-1. \( R_3 \to R_3 - \frac{4}{3}R_2 \)
+$1. ( R_3 \to R_3 - \frac{4}{3}R_2 )$
 
 **Matrix after row operations:**
 $$
@@ -158,7 +162,15 @@ Find the inverse of the matrix and multiply by the right-hand side vector to sol
 
 ## 11. Vectors I
 
-### 1. Multiply vector \( \mathbf{a} = [3, 4] \) by a scalar to make its length equal to 1.
+### 1. Normalize the vector:
+
+$$
+\mathbf{a} = [3, 4]
+$$
+
+by multiplying it by a scalar so that its length equals 1.
+
+
 
 First, calculate the length (magnitude) of \( \mathbf{a} \):
 
