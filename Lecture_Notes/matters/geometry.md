@@ -107,7 +107,7 @@ $$
 ![ second image of the graph](geometry2.png)
 ### Problem
 
-The plane passes through point \( A(1, 2, 3) \) and is perpendicular to the normal vector \( \vec{n} = (2, 3, 4) \). Find the equation of the plane.
+The plane passes through point $( A(1, 2, 3) $) and is perpendicular to the normal vector $( \vec{n} = (2, 3, 4) $). Find the equation of the plane.
 
 ### Solution
 
